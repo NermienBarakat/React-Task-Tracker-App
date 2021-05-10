@@ -1,28 +1,16 @@
 {
   "tasks": [
     {
-      "text": "Taking A shower",
-      "day": "",
-      "reminder": false,
-      "id": 1
-    },
-    {
-      "text": "Baking",
+      "text": "Meeting",
       "day": "",
       "reminder": false,
       "id": 2
     },
     {
-      "text": "Tiddy Up",
+      "text": "Study",
       "day": "",
       "reminder": true,
       "id": 3
-    },
-    {
-      "text": "Style my hair",
-      "day": "",
-      "reminder": true,
-      "id": 4
     },
     {
       "text": "Prepare lunch",
